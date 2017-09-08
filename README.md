@@ -1,2 +1,2 @@
 # CUtilities
-Repository with C headers for utilities of any kind
+Repository with C files for utilities of different types.
