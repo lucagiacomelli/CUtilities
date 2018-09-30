@@ -13,7 +13,7 @@ double median(vector<int> scores){
   else {
     std::sort(scores.begin(), scores.end());
     if (size % 2 == 0){
-      return (scores[size / 2 - 1] + scores[size / 2]) / 2;
+      return (scores[size / 2 - 1] + scores[size / 2]) / 2.0;
     }
     else {
       return scores[size / 2];
